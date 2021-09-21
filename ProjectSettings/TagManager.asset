@@ -9,6 +9,10 @@ TagManager:
   - Door
   - Candidate
   - ChairPos
+  - SalaryText
+  - DepartmentText
+  - ExperienceText
+  - NameText
   layers:
   - Default
   - TransparentFX
